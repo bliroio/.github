@@ -1,6 +1,6 @@
-## Issue Ticket Number
+## JIRA ticket link
 
--   Add the relevant issue ticket number here (e.g., Closes #<issue_number>).
+-   Add a link to the JIRA ticket here
 
 ## Description
 
@@ -33,13 +33,6 @@ _Confirm whether the changes have been tested locally during development._
 -   [ ] No
 
 _Indicate whether the changes have been tested in the staging environment._
-
-**Under Feature Flag**
-
--   [x] Yes
--   [ ] No
-
-_Specify if the changes are currently under a feature flag._
 
 **Database Changes**
 
