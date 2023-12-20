@@ -1,6 +1,6 @@
-## JIRA ticket link
+## [JIRA ticket](https://bliro.atlassian.net/browse/BLIRO-[REPLACE-THIS-WITH-ISSUE-NUMBER])
 
--   Add a link to the JIRA ticket here
+^^^ Replace [REPLACE-THIS-WITH-ISSUE-NUMBER] with the JIRA ticket number ^^^
 
 ## Description
 
