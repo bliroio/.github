@@ -1,6 +1,6 @@
-## Issue Ticket Number
+## [JIRA ticket](https://bliro.atlassian.net/browse/BLIRO-[REPLACE-THIS-WITH-ISSUE-NUMBER])
 
--   Add the relevant issue ticket number here (e.g., Closes #<issue_number>).
+^^^ Replace [REPLACE-THIS-WITH-ISSUE-NUMBER] with the JIRA ticket number ^^^
 
 ## Description
 
