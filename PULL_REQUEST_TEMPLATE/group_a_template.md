@@ -6,6 +6,13 @@
 
 Provide a concise description of the changes made in this PR.
 
+**GitHub Actions Checks**
+
+- [ ] All checks passed
+  - [ ] ESLint & Prettier
+  - [ ] MacOS
+  - [ ] Windows
+
 **Documentation Updated?**
 
 -   [ ] Yes
@@ -59,13 +66,3 @@ Provide information on the test coverage for the changes made in this PR. Includ
 ## Additional Notes
 
 Include any additional notes, considerations, or explanations that might be helpful for reviewers.
-
-
-
-
-
-
-
-
-
-
