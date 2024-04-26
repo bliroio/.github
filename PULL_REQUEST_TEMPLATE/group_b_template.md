@@ -6,6 +6,13 @@ Briefly describe the purpose and scope of the changes in this pull request.
 **Related Issues:**
 - List any related issues or tickets that are addressed or impacted by this pull request.
 
+**GitHub Actions Checks**
+
+- [ ] All checks passed
+  - [ ] ESLint & Prettier
+  - [ ] MacOS
+  - [ ] Windows
+
 **Checklist:**
 - [ ] Check list 1
 - [ ] Check list 2
