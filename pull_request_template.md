@@ -1,4 +1,11 @@
-Please go the the `Preview` tab and select the appropriate sub-template:
+### Summary + Motivation
+_Briefly explain what this PR does. What are we introducing here?_
 
-### - [Standard Template](?expand=1&template=group_a_template.md)
-### - [Audio Engine Template](?expand=1&template=group_b_template.md)
+### Changes
+_Bullet out major changes or file areas_
+
+### Screenshots / Demos (if applicable)
+_Insert images, link or GIFs here_
+
+### Testing
+_Describe what was tested and how_
